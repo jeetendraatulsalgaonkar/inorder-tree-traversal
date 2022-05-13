@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class InorderTreeTraversal {
 
-    public static final void main(String[]main) {
+    public static void main(String[] main) {
         /* Construct the following tree
                    1
                  /   \
